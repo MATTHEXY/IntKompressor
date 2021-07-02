@@ -1,0 +1,4 @@
+read	KEYWORD1
+Merge	KEYWORD1
+getFirst	KEYWORD1
+getSecond	KEYWORD1
